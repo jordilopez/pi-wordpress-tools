@@ -1,0 +1,3 @@
+[submodule "vendor/wordpress-agent-skills"]
+	path = vendor/wordpress-agent-skills
+	url = https://github.com/WordPress/agent-skills.git
