@@ -1,0 +1,28 @@
+{
+  "formatVersion": 3,
+  "packageName": "agent-skills-pi",
+  "packageVersion": "0.6.9-pi.0",
+  "format": "herdr",
+  "agents": [
+    {
+      "sourcePath": "agents/code-reviewer.md",
+      "targetPath": ".pi/herdr-subagents/agents/code-reviewer.md",
+      "sha256": "761718715eb78e3e00678d6d6d83018501b2dd73605db7e613ab3ad36c8a649f"
+    },
+    {
+      "sourcePath": "agents/security-auditor.md",
+      "targetPath": ".pi/herdr-subagents/agents/security-auditor.md",
+      "sha256": "7180872142f24af9e42662b57fbe459569e310781b2014f740a4b0984164c823"
+    },
+    {
+      "sourcePath": "agents/test-engineer.md",
+      "targetPath": ".pi/herdr-subagents/agents/test-engineer.md",
+      "sha256": "7110eec5432d70781b56a7b1bddc889e5b9f8e13b59f12c253e98d9ec3af49e5"
+    },
+    {
+      "sourcePath": "agents/web-performance-auditor.md",
+      "targetPath": ".pi/herdr-subagents/agents/web-performance-auditor.md",
+      "sha256": "54489d482609c019ecb0005adea0cfd60dda5a7781040c8515c83383c1a21da3"
+    }
+  ]
+}
